@@ -1,7 +1,7 @@
-[![MasterHead](https://imgs.search.brave.com/DIsOCOhUXxdY5tQP5kMex3CSYD2v2uJErwayvl_Dz5Y/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTIx/OTg1NDIyMS9waG90/by93ZWItZGVzaWdu/LWRldmVsb3BtZW50/LWFuZC1jb2Rpbmct/Y29uY2VwdC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9RnFT/amRSaDZzdWJMX1VN/U3B1WHhlUnB2a3Qx/a3J4VWl5Q1FaMXdz/N3JPaz0)]
+![MasterHead](https://imgs.search.brave.com/DIsOCOhUXxdY5tQP5kMex3CSYD2v2uJErwayvl_Dz5Y/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTIx/OTg1NDIyMS9waG90/by93ZWItZGVzaWdu/LWRldmVsb3BtZW50/LWFuZC1jb2Rpbmct/Y29uY2VwdC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9RnFT/amRSaDZzdWJMX1VN/U3B1WHhlUnB2a3Qx/a3J4VWl5Q1FaMXdz/N3JPaz0)
 <h1 align="center">Hi 👋, I'm Mridul Pandey</h1>
 <h3 align="center">A CSE undergrad who is passionate about Software Development ,Web Development .</h3>
-<img  align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/person-managing-data-with-the-help-of-artificial-intelligence-10025674"/>
+<img  align="right" alt="Coding" width="400" src="https://imgbox.com/yLeQDVrf"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul891&label=Profile%20views&color=0e75b6&style=flat" alt="mridul891" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mridul891" alt="mridul891" /></a> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pandeym891@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PEfhOlEEwQZmeEdpY4xJ2OIrJHvyFBEy/view?usp=drive_link](https://drive.google.com/file/d/1PEfhOlEEwQZmeEdpY4xJ2OIrJHvyFBEy/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PEfhOlEEwQZmeEdpY4xJ2OIrJHvyFBEy/view?usp=drive_link](https://docs.google.com/document/d/1yR8vjaXDkyT3K7z2WEeiHOIwoY9mUZAJ/edit?usp=drive_link&ouid=113856697856140270650&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
