@@ -1,10 +1,9 @@
-
+  
 <h1 align="center">Hi 👋, I'm Mridul Pandey</h1>
-<h3 align="center">A CSE undergrad who is passionate about Software Development ,Web Development And Machine Learning.</h3>
+<h4 align="center">A CSE undergrad who is passionate about Software Development ,Web Development And Machine Learning.</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mridul891" alt="mridul891" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/work_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/work_pandey?logo=twitter&style=for-the-badge" alt="work_pandey" /></a> </p>
 
