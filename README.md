@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **VirtualPlant**
 
-- 🌱 I’m currently learning **NExtjs , DOCKER , Monorepo **
+- 🌱 I’m currently learning **Nextjs , DOCKER , Monorepo**
 
 - 💬 Ask me about **React , Node.Js , Javascript , Prisma**
 
