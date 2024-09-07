@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/work_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/work_pandey?logo=twitter&style=for-the-badge" alt="work_pandey" /></a> </p>
 
-- 🔭 I’m currently working on **RepoPanda**
+- 🔭 I’m currently working on **VirtualPlant**
 
-- 🌱 I’m currently learning **Django , LangChain**
+- 🌱 I’m currently learning **NExtjs , DOCKER , Monorepo **
 
-- 💬 Ask me about **React , Node.Js , Javascript**
+- 💬 Ask me about **React , Node.Js , Javascript , Prisma**
 
 - 📫 How to reach me **pandey.mridul.work@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p3X_tQjMApWmhSIA8ynQAH0EOmhYEFog/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NQAxJSW_fidFjk7kYaijcmmfPXrKmvbt/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/work_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="work_pandey" height="30" width="40" /></a>
