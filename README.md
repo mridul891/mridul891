@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pandey.mridul.work@gmail.com**
 
-- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/1a34bCj3n8ILwpzT0Mk31bjc7y2X6sigB/view?usp=drive_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a34bCj3n8ILwpzT0Mk31bjc7y2X6sigB/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/work_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="work_pandey" height="30" width="40" /></a>
