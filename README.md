@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/work_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/work_pandey?logo=twitter&style=for-the-badge" alt="work_pandey" /></a> </p>
 
-- 🔭 I’m currently working on **VirtualPlant**
-
 - 🌱 I’m currently learning **Nextjs , DOCKER , Monorepo**
 
 - 💬 Ask me about **React , Node.Js , Javascript , Prisma**
