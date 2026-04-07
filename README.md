@@ -41,8 +41,7 @@
 
 | MySQL | Postgres | MongoDb |
 |----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="pg" alt="pg" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="pg" alt="pg" width="55" height="55"/>|
   
 ### Environments, Testing, Other:
 
