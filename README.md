@@ -37,12 +37,12 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="55" height="55"/>    |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="55" height="55"/>   |<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="nextjs" width="55" height="55"/>|
 
 
-### My tools for Data Manipulation & Visualisation:
+### DataBases :
 
-| Jupyter |  MySQL | Postgres | SQLite | Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |
-
+| MySQL | Postgres | MongoDb |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="pg" alt="pg" width="55" height="55"/>|
   
 ### Environments, Testing, Other:
 
@@ -54,24 +54,3 @@
 
 </div>
 
----
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=mridul891&theme=highcontrast&hide_border=true&border_radius=5&card_width=700">
-</p>
-
-
----
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mridul891&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul891&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
----
-<p align="center">
-  <img width="800" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=mridul891&theme=react-dark">
-</p>
-
----
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mridul891&style=for-the-badge&color=orange" alt=""/>
-</div>
